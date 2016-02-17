@@ -1,0 +1,30 @@
+body {
+    height: 500px;
+    width: 80%;
+    border: 2px solid #00C957;
+    margin: 0 auto;
+}
+
+div {
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    margin: 0 auto;
+    border: 1px dashed black;
+}
+
+#s1 {
+    color: red;
+}
+
+#s2{
+    color: #00FF00;
+}
+
+#s3 {
+    color: blue;
+}
+
+#s4 {
+    color: yellow;
+}
