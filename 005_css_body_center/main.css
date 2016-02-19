@@ -14,17 +14,17 @@ div {
 }
 
 #s1 {
-    color: red;
+    background-color: red;
 }
 
 #s2{
-    color: #00FF00;
+    background-color: #00FF00;
 }
 
 #s3 {
-    color: blue;
+    background-color: blue;
 }
 
 #s4 {
-    color: yellow;
+    background-color: yellow;
 }
