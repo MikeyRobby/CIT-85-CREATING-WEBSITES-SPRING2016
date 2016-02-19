@@ -1,0 +1,18 @@
+.one {
+    border: 2px dashed powderblue;
+    background-color: gainsboro;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    float: left;
+}
+
+.two {
+    height: 40px;
+    width: 150px;
+    background-color: aliceblue;
+    border: 3px solid transparent;
+    clear: both;
+    overflow: auto;
+}
+
