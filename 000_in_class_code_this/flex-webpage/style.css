@@ -1,0 +1,26 @@
+html, body, nav, div, header {
+    padding: 0;
+    boder: 0;
+    margin: 0;
+}
+
+header{
+    display: flex;
+    width: 100%;
+}
+
+nav {
+background-color: darkgray;
+}
+
+ul {
+    display: flex;
+    list-style-type: none;
+}
+
+.form-input {
+    width: 150px;
+    height: 50px;
+    margin: 30px;
+
+}
