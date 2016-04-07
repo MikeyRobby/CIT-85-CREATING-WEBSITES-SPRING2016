@@ -1,0 +1,15 @@
+div {
+    display: inline-block;
+    height: 600px;
+    width: 600px;
+}
+.ex {
+    border: 2px solid blue;
+    padding: 50px;
+}
+
+.bb {
+    border: 2px solid red;
+    box-sizing: border-box;
+    padding: 50px;
+}
