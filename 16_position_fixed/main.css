@@ -1,0 +1,47 @@
+.pf {
+    height: 400px;
+    width: 600px;
+    border: 2px solid red;
+    background-color: aqua;
+    position: fixed;
+}
+
+.other1 {
+    height: 200px;
+    width: 400px;
+    border: 2px solid blue;
+    background: #000;
+    margin: 0 auto;
+}
+
+.other2 {
+    height: 200px;
+    width: 400px;
+    border: 2px solid blue;
+    background: #444;
+    margin: 0 auto;
+}
+
+.other3 {
+    height: 200px;
+    width: 400px;
+    border: 2px solid blue;
+    background: #060;
+    margin: 0 auto;
+}
+
+.other4 {
+    height: 200px;
+    width: 400px;
+    border: 2px solid blue;
+    background: #500;
+    margin: 0 auto;
+}
+
+.other5 {
+    height: 200px;
+    width: 400px;
+    border: 2px solid blue;
+    background: #059;
+    margin: 0 auto;
+}
