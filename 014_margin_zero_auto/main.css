@@ -1,0 +1,16 @@
+html, body, div {
+    border: 1px dashed black;
+}
+
+body {
+    width: 80%;
+    margin: 0 auto;
+}
+
+div {
+    width: 400px;
+    height: 400px;
+    background-color: deepskyblue;
+    border-radius: 25%;
+    margin: 0 auto;
+}
