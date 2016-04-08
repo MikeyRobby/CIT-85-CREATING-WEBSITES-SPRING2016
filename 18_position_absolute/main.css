@@ -1,0 +1,18 @@
+div {
+    display: inline-block;
+    height: 400px;
+    width: 400px;
+    border: 2px solid darkgray;
+}
+
+.one {
+    background-color: red;
+}
+
+.two {
+    background-color: green;
+}
+
+.three{
+
+}
