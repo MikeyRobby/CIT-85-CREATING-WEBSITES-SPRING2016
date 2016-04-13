@@ -14,5 +14,11 @@ div {
 }
 
 .three{
+    background-color: blue;
+    position: absolute;
 
+}
+
+.four {
+    background-color: yellow;
 }
