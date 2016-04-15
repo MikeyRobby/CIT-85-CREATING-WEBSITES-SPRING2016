@@ -1,0 +1,29 @@
+html, body, .hero-img {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    height: 100%;
+}
+
+.hero-img {
+    display: flex;
+    background-image: url("http://www.planwallpaper.com/static/images/6-940622110b39cad584098e6749eac708.jpg");
+    background-size: cover;
+    background-color: #444444;
+    background-repeat: no-repeat;
+    background-position: top center;
+    flex-grow: 1;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.btf {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: cursive;
+    text-align: center ;
+    font-size: x-large;
+}

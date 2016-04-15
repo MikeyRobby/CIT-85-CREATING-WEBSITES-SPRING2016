@@ -1,0 +1,54 @@
+html, body, .hero-img {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    height: 100%;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 4rem;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    background-color: rgba(255, 255, 102, .4);
+}
+
+.logo {
+    background-color: rgba(255, 0, 0, 1.0);
+    height: 2rem;
+    width: 200px;
+    margin: 0 40px;
+}
+
+.nav {
+    background-color: rgba(255, 0, 0, 1.0);
+    height: 2rem;
+    width: 200px;
+    margin: 0 40px;
+}
+
+.hero-img {
+    display: flex;
+    background-image: url("http://www.planwallpaper.com/static/images/6-940622110b39cad584098e6749eac708.jpg");
+    background-size: cover;
+    background-color: #444444;
+    background-repeat: no-repeat;
+    background-position: center;
+    flex-grow: 1;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.btf {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: cursive;
+    text-align: center ;
+    font-size: x-large;
+}

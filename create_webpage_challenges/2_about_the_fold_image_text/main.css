@@ -1,0 +1,27 @@
+html, body, .hero-img {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    height: 100%;
+}
+
+.hero-img {
+    display: flex;
+    background-image: url("https://static.pexels.com/photos/1562/italian-landscape-mountains-nature.jpg");
+    background-size: cover;
+    background-color: #444444;
+    background-repeat: no-repeat;
+    background-position: top center;
+    flex-grow: 1;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+main {
+    font-family: cursive;
+    text-align: center ;
+    font-size: 80px;
+    color: crimson;
+}
