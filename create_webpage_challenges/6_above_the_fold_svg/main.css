@@ -1,0 +1,27 @@
+html, body, div {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+    height: 100%;
+}
+
+.atf {
+    display: flex;
+    fill: green;
+    stroke: darkgreen;
+    stroke-width: 10px;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    background-color: #00FF00;
+
+}
+
+body {
+    background-color: #0000FF;
+    font-family: fantasy;
+    color: red;
+    text-align: center;
+}
