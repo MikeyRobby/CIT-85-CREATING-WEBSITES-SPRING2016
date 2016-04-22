@@ -1,0 +1,23 @@
+.tabs {
+    display:flex;
+
+    border-bottom: 1px solid #D7DBDD;
+    justify-content: center;
+    align-items: center;
+}
+
+.tab {
+    cursor: pointer;
+    padding: 5px 30px;
+    color: #16A2D7;
+    font-size: 12px;
+    border-bottom: 2px solid transparent;
+}
+
+.tab.is-tab-selected {
+    border-bottom-color: #4EBBE4;
+}
+
+.tab:hover {
+    border-bottom-color: #4EBBE4;
+}
