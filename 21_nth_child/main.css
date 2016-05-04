@@ -1,0 +1,11 @@
+li:nth-child(10n+8){
+    color: blue;
+}
+
+li:nth-child(3n+9){
+    color: red;
+}
+
+li:nth-child(9n+3){
+    color: pink;
+}
