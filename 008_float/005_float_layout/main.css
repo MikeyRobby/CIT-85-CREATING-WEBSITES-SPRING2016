@@ -13,3 +13,8 @@ ul {
 div {
     width: 80%;
 }
+
+p {
+    text-align: center;
+    text-decoration: underline;
+}

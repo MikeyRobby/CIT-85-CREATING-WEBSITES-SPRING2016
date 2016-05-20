@@ -1,0 +1,19 @@
+@media (max-width: 599px) {
+    html, body {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        height: 100%;
+    }
+
+    body {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    img {
+        border: 10px solid blue;
+    }
+
+}
