@@ -1,0 +1,7 @@
+.overflow {
+    text-align: center;
+    float: left;
+    width: 120px;
+    height: 40px;
+    overflow: auto;
+}
