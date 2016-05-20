@@ -13,6 +13,6 @@
     background-color: aliceblue;
     border: 3px solid transparent;
     clear: both;
-    /*overflow: auto;*/
+    overflow: auto;
 }
 

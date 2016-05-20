@@ -1,0 +1,15 @@
+nav {
+    float: left;
+    height: 100px;
+    width: 80px;
+    padding-right: 40px;
+    border: 2px solid red;
+}
+
+ul {
+    list-style-type: none;
+}
+
+div {
+    width: 80%;
+}
