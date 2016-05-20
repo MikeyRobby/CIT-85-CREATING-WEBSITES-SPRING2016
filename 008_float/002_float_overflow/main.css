@@ -1,4 +1,5 @@
 .overflow {
+    float: left;
     height: 40px;
     width: 60px;
     background-color: #4EBBE4;
