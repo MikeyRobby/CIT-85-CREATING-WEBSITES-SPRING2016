@@ -1,8 +1,8 @@
 .one {
     border: 2px dashed powderblue;
     background-color: gainsboro;
-    width: 200px;
-    height: 200px;
+    width: 100px;
+    height: 100px;
     text-align: center;
     float: left;
 }
@@ -13,6 +13,6 @@
     background-color: aliceblue;
     border: 3px solid transparent;
     clear: both;
-    overflow: auto;
+    /*overflow: auto;*/
 }
 
